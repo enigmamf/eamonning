@@ -1,5 +1,6 @@
 # eamonning
 
+From [Coverage Eamonning Possibilities Chart by 0xGG](https://docs.google.com/spreadsheets/d/15sZFJBeQQ2H6rapseM-RGrhPZvzcsvK4VlWMX5FWRCc/edit?gid=554245291#gid=554245291)
 
 ```mermaid
 graph TD;
